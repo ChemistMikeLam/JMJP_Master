@@ -10,6 +10,8 @@ This project is expected to consist of the following components:
 
 - [x] A [standard specification](https://github.com/ChemistMikeLam/JMJP_Standard) describing a text-only format for digitally recording paifus 
 
+- [x] A [vim plugin](https://github.com/ChemistMikeLam/vim-jmjp) for syntax highlighting of such paifus 
+
 - [ ] A parser for reading in such paifus into an internal representation
 
 - [ ] A writer for assisting in creation of such paifus
