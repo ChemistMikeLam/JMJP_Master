@@ -8,7 +8,7 @@ This project consists of standards and softwares related to recording and displa
 
 This project is expected to consist of the following components: 
 
-- [x] [A standard specification describing a text-only format for digitally recording paifus](https://github.com/ChemistMikeLam/JMJP_Standard) 
+- [x] A [standard specification](https://github.com/ChemistMikeLam/JMJP_Standard) describing a text-only format for digitally recording paifus 
 
 - [ ] A parser for reading in such paifus into an internal representation
 
